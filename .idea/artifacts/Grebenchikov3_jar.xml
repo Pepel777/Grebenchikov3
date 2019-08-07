@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Grebenchikov3:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Grebenchikov3_jar</output-path>
+    <root id="archive" name="Grebenchikov3.jar">
+      <element id="module-output" name="Grebenchikov3" />
+    </root>
+  </artifact>
+</component>
